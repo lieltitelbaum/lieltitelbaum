@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, i'm Liel 👋👩‍💻
+
+*iOS developer* <br/>
+*Software Engineering student*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lieltitelbaum&layout=compact)](https://github.com/lieltitelbaum/github-readme-stats)
 
 <!--
 **lieltitelbaum/lieltitelbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
